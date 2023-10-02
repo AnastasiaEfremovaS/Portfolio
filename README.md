@@ -1,6 +1,6 @@
 # Portfolio
 
-|Header column 1|Header column 2|
-|-----------|-----------|
-|some text|more text|
-|some text|more and longer text|
+|Номер|Описание проекта|Ссылка на проект|
+|-----------|-----------|-----------|
+|1.|Проект "Музыка больших городов"|more text|
+|2.|Проект ""|more and longer text|
