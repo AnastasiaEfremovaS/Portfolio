@@ -11,3 +11,8 @@
 |7.|Проект "Проверка гипотез"|[Проверка гипотез и результата АВ теста](https://github.com/AnastasiaEfremovaS/Portfolio/blob/main/7_%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D0%B3%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7.ipynb)|
 |8.|Проект "Анализ воронки продаж и ААВ теста"|[Воронка продаж и ААВ тест](https://github.com/AnastasiaEfremovaS/Portfolio/blob/main/8_sborny_2.ipynb)|
 |9.|Проект "Рынок заведений общественного питания Москвы"|[Общепит Москвы](https://github.com/AnastasiaEfremovaS/Portfolio/blob/main/9_obshepit_moskvy.ipynb)|
+|10.|Выпускной проект: "Сегментирование товарных групп"|[Сегментирование](https://github.com/AnastasiaEfremovaS/Portfolio/blob/main/10_vypusknoy_1.ipynb)|
+|11.|Выпускной проект: "Проверка AB тестирования"|[ав тест](https://github.com/AnastasiaEfremovaS/Portfolio/blob/main/10_vypusknoy_2.ipynb)|
+|12.|Выпускной проект: "SQL"|[SQL](https://github.com/AnastasiaEfremovaS/Portfolio/blob/main/10_vypusknoy_3.ipynb)|
+
+
